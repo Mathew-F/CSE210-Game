@@ -1,4 +1,7 @@
 # CSE210-Game
-Group 5 game for the final project
-
-#testing_11.07.2020
+Title of our Game
+Short Description
+Python Version: 3.9.0
+Arcade Version:
+Instillation Instructions: 
+How to run:
